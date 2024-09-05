@@ -1,2 +1,1 @@
-# PreapCourse-Henry
-Este es un repositorio de prueba del modulo 2 del PreapCourse de Henry
+Este es un proyecto de preuba de como crear un repositorio y clonarlo desde mi dispositivo local
